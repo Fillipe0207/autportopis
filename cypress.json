@@ -1,1 +1,7 @@
-{}
+{
+    "env": {
+        "URL_TOKEN" : "https://apihlg-portoseg.sensedia.com/oauth/v1/access-token",
+        "URL_PARAMETRIZACAO" : "https://apihlg-portoseg.sensedia.com/dev/portobank/pis-workflow/parametrizacao/v1",
+        "URL_OFERTA": "https://apihlg-portoseg.sensedia.com/dev/portobank/pis-workflow/oferta"
+    }
+}
