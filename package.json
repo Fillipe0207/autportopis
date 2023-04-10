@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "cypress": "^9.1.1"
+  },
+  "name": "automacaopisporto",
+  "version": "1.0.0",
+  "description": "Primeiro teste automatizado do inicio",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "author": "",
+  "license": "ISC"
+}
