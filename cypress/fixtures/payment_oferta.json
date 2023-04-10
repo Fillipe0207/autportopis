@@ -1,0 +1,6 @@
+{
+    "amount": 0,
+   "tipoDocumento" :"string",
+    "documento": "string",
+    "valorTransacao": 0
+ }
